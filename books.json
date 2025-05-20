@@ -1,0 +1,79 @@
+{
+    "books": {
+        "Harry Potter and the Philosopher's Stone": {
+            "author": "J.K. Rowling",
+            "genre": "Fantasy"
+        },
+        "Harry Potter and the Chamber of Secrets": {
+            "author": "J.K. Rowling",
+            "genre": "Fantasy"
+        },
+        "Harry Potter and the Prisoner of Azkaban": {
+            "author": "J.K. Rowling",
+            "genre": "Fantasy"
+        },
+        "Harry Potter and the Goblet of Fire": {
+            "author": "J.K. Rowling",
+            "genre": "Fantasy"
+        },
+        "1984": {
+            "author": "George Orwell",
+            "genre": "Dystopian"
+        },
+        "The Alchemist": {
+            "author": "Paulo Coelho",
+            "genre": "Adventure"
+        },
+        "The Da Vinci Code": {
+            "author": "Dan Brown",
+            "genre": "Thriller"
+        },
+        "The Fault in Our Stars": {
+            "author": "John Green",
+            "genre": "Romance"
+        },
+        "Pride and Prejudice": {
+            "author": "Jane Austen",
+            "genre": "Romance"
+        },
+        "The Great Gatsby": {
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic"
+        },
+        "The Catcher in the Rye": {
+            "author": "J.D. Salinger",
+            "genre": "Classic"
+        },
+        "To Kill a Mockingbird": {
+            "author": "Harper Lee",
+            "genre": "Classic"
+        },
+        "The Hobbit": {
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy"
+        },
+        "The Lord of the Rings": {
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy"
+        },
+        "Brave New World": {
+            "author": "Aldous Huxley",
+            "genre": "Dystopian"
+        },
+        "The Road": {
+            "author": "Cormac McCarthy",
+            "genre": "Post-Apocalyptic"
+        },
+        "The Hunger Games": {
+            "author": "Suzanne Collins",
+            "genre": "Dystopian"
+        }
+    },
+    "ratings": {
+        "Harry Potter and the Philosopher's Stone": 4,
+        "The Great Gatsby": 5,
+        "1984": 4,
+        "The Catcher in the Rye": 3,
+        "The Hunger Games": 5
+    }
+}
